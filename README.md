@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @raveendrakumar2003
 - 👀 I’m interested in ...technical stuff, competitive programming, devloppment
 - 🌱 I’m currently learning ...data structures and algorithm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 raveendrakumar2003/raveendrakumar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
